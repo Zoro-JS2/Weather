@@ -1,11 +1,11 @@
-# Weather
+# Weather App (App build on electron.js)
 
-For start you need clone repository
+Еhe application will allow you to select any city and find out what temperature it is
 
-Run command:
+# Run command:
+for install all packages
 
 `npm install`
 
-After download all node models start next command:
-
+# Run project
 `npm start`
